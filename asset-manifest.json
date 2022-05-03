@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/instacart-clone/static/css/main.1bb2c9bb.css",
-    "main.js": "/instacart-clone/static/js/main.99826080.js",
+    "main.css": "/instacart-clone/static/css/main.1f567de8.css",
+    "main.js": "/instacart-clone/static/js/main.ceb92e92.js",
     "static/js/787.098916ea.chunk.js": "/instacart-clone/static/js/787.098916ea.chunk.js",
     "index.html": "/instacart-clone/index.html",
-    "main.1bb2c9bb.css.map": "/instacart-clone/static/css/main.1bb2c9bb.css.map",
-    "main.99826080.js.map": "/instacart-clone/static/js/main.99826080.js.map",
+    "main.1f567de8.css.map": "/instacart-clone/static/css/main.1f567de8.css.map",
+    "main.ceb92e92.js.map": "/instacart-clone/static/js/main.ceb92e92.js.map",
     "787.098916ea.chunk.js.map": "/instacart-clone/static/js/787.098916ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bb2c9bb.css",
-    "static/js/main.99826080.js"
+    "static/css/main.1f567de8.css",
+    "static/js/main.ceb92e92.js"
   ]
 }
